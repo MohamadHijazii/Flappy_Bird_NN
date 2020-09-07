@@ -1,0 +1,2743 @@
+fileFormatVersion: 2
+guid: 709916cc25db0c24ab7d231c315b82cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4311334461059256072
+    second: google_dinausor_0
+  - first:
+      213: 7420123792138637781
+    second: google_dinausor_1
+  - first:
+      213: -2709406152598011367
+    second: google_dinausor_2
+  - first:
+      213: 7785160011054826476
+    second: google_dinausor_3
+  - first:
+      213: -7774524326999741696
+    second: google_dinausor_4
+  - first:
+      213: -2576177689124602692
+    second: google_dinausor_5
+  - first:
+      213: 8563752938613258845
+    second: google_dinausor_6
+  - first:
+      213: 2046982802073762983
+    second: google_dinausor_7
+  - first:
+      213: -4863644351491748345
+    second: google_dinausor_8
+  - first:
+      213: 2753086397707006828
+    second: google_dinausor_9
+  - first:
+      213: -7689206792303629211
+    second: google_dinausor_10
+  - first:
+      213: -1816351045980338858
+    second: google_dinausor_11
+  - first:
+      213: -7064068468325942586
+    second: google_dinausor_12
+  - first:
+      213: 1518594302883938135
+    second: google_dinausor_13
+  - first:
+      213: 7375985343228774217
+    second: google_dinausor_14
+  - first:
+      213: 5114646814742427371
+    second: google_dinausor_15
+  - first:
+      213: -1503727456038365929
+    second: google_dinausor_16
+  - first:
+      213: -2538636529898242162
+    second: google_dinausor_17
+  - first:
+      213: 1318153706627605896
+    second: google_dinausor_18
+  - first:
+      213: -559670638768875514
+    second: google_dinausor_19
+  - first:
+      213: -4795488709799461465
+    second: google_dinausor_20
+  - first:
+      213: -3333752784855614992
+    second: google_dinausor_21
+  - first:
+      213: -5147550175727082573
+    second: google_dinausor_22
+  - first:
+      213: -1711187839701959832
+    second: google_dinausor_23
+  - first:
+      213: -4061788863816294616
+    second: google_dinausor_24
+  - first:
+      213: -9021683624847704310
+    second: google_dinausor_25
+  - first:
+      213: 8736832183588439446
+    second: google_dinausor_26
+  - first:
+      213: 1546271117588695362
+    second: google_dinausor_27
+  - first:
+      213: -8124861275129481342
+    second: google_dinausor_28
+  - first:
+      213: -508926103256281216
+    second: google_dinausor_29
+  - first:
+      213: 5628653701862995040
+    second: google_dinausor_30
+  - first:
+      213: 3348047499975018700
+    second: google_dinausor_31
+  - first:
+      213: 4166707875563736085
+    second: google_dinausor_32
+  - first:
+      213: 8979101169734692179
+    second: google_dinausor_33
+  - first:
+      213: -3595755693609144150
+    second: google_dinausor_34
+  - first:
+      213: 3655502464510296550
+    second: google_dinausor_35
+  - first:
+      213: 2686076444091172785
+    second: google_dinausor_36
+  - first:
+      213: -5314607516880270227
+    second: google_dinausor_37
+  - first:
+      213: -4256034925931945854
+    second: google_dinausor_38
+  - first:
+      213: -6210993975505392309
+    second: google_dinausor_39
+  - first:
+      213: 7293936283477104488
+    second: google_dinausor_40
+  - first:
+      213: 2817120629584489673
+    second: google_dinausor_41
+  - first:
+      213: -5586696323133556591
+    second: google_dinausor_42
+  - first:
+      213: -4396040217924913453
+    second: google_dinausor_43
+  - first:
+      213: 2929278623428059089
+    second: google_dinausor_44
+  - first:
+      213: 3444726850167107071
+    second: google_dinausor_45
+  - first:
+      213: -4609668420740862510
+    second: google_dinausor_46
+  - first:
+      213: 3302515036259546309
+    second: google_dinausor_47
+  - first:
+      213: -1381648258166347728
+    second: google_dinausor_48
+  - first:
+      213: 9187746903000995050
+    second: google_dinausor_49
+  - first:
+      213: 84999975926261888
+    second: google_dinausor_50
+  - first:
+      213: 6924822815912344796
+    second: google_dinausor_51
+  - first:
+      213: 6440895217303663188
+    second: google_dinausor_52
+  - first:
+      213: 3683411718705896235
+    second: google_dinausor_53
+  - first:
+      213: -1336502625188364688
+    second: google_dinausor_54
+  - first:
+      213: -3568693936910591875
+    second: google_dinausor_55
+  - first:
+      213: 4127375966032093146
+    second: google_dinausor_56
+  - first:
+      213: 3571128584524135943
+    second: google_dinausor_57
+  - first:
+      213: 1675609243622188206
+    second: google_dinausor_58
+  - first:
+      213: 1088369037626918548
+    second: google_dinausor_59
+  - first:
+      213: -6494090411903410773
+    second: google_dinausor_60
+  - first:
+      213: 4222255931199988764
+    second: google_dinausor_61
+  - first:
+      213: -1330822682512515899
+    second: google_dinausor_62
+  - first:
+      213: 5915610855439761355
+    second: google_dinausor_63
+  - first:
+      213: -6556023781929751612
+    second: google_dinausor_64
+  - first:
+      213: -3961237200980203427
+    second: google_dinausor_65
+  - first:
+      213: -659206863118106577
+    second: google_dinausor_66
+  - first:
+      213: -1369097153239148364
+    second: google_dinausor_67
+  - first:
+      213: -722633114464854127
+    second: google_dinausor_68
+  - first:
+      213: 4906116544111428312
+    second: google_dinausor_69
+  - first:
+      213: 2646722619889711696
+    second: google_dinausor_70
+  - first:
+      213: 8747981701255423160
+    second: google_dinausor_71
+  - first:
+      213: 6025186949499776068
+    second: google_dinausor_72
+  - first:
+      213: -7470605104170270893
+    second: google_dinausor_73
+  - first:
+      213: -3007791094501084219
+    second: google_dinausor_74
+  - first:
+      213: -1701391592973167205
+    second: google_dinausor_75
+  - first:
+      213: 5136007325921247147
+    second: google_dinausor_76
+  - first:
+      213: -3910885585951504611
+    second: google_dinausor_77
+  - first:
+      213: 8302156668669981092
+    second: google_dinausor_78
+  - first:
+      213: -3012564774836760491
+    second: google_dinausor_79
+  - first:
+      213: 1639124463692321686
+    second: google_dinausor_80
+  - first:
+      213: -3471606044941746104
+    second: google_dinausor_81
+  - first:
+      213: 3293499379142187783
+    second: google_dinausor_82
+  - first:
+      213: 8808575748869121501
+    second: google_dinausor_83
+  - first:
+      213: -966819036885873480
+    second: google_dinausor_84
+  - first:
+      213: -5386600739363512869
+    second: google_dinausor_85
+  - first:
+      213: -6212295422032833396
+    second: google_dinausor_86
+  - first:
+      213: -8652938922826545085
+    second: google_dinausor_87
+  - first:
+      213: 1467805603617750829
+    second: google_dinausor_88
+  - first:
+      213: -4267545798803293642
+    second: google_dinausor_89
+  - first:
+      213: -8370942676741984860
+    second: google_dinausor_90
+  - first:
+      213: 4506083590691196109
+    second: google_dinausor_91
+  - first:
+      213: -7059918571035240226
+    second: google_dinausor_92
+  - first:
+      213: 4407434441475411209
+    second: google_dinausor_93
+  - first:
+      213: 4212413612043574143
+    second: google_dinausor_94
+  - first:
+      213: 7106785466234053356
+    second: google_dinausor_95
+  - first:
+      213: -1147853573332725159
+    second: google_dinausor_96
+  - first:
+      213: -721100049106397909
+    second: google_dinausor_97
+  - first:
+      213: -8627410988576823351
+    second: google_dinausor_98
+  - first:
+      213: 773180975407925898
+    second: google_dinausor_99
+  - first:
+      213: 6498139270247465568
+    second: google_dinausor_100
+  - first:
+      213: 978823776735106586
+    second: google_dinausor_101
+  - first:
+      213: -4139077714708345733
+    second: google_dinausor_102
+  - first:
+      213: 7368244894041370120
+    second: google_dinausor_103
+  - first:
+      213: 1903735673410899225
+    second: google_dinausor_104
+  - first:
+      213: 2380128018918307616
+    second: google_dinausor_105
+  - first:
+      213: 5729183405607689415
+    second: google_dinausor_106
+  - first:
+      213: 3453682409181289274
+    second: google_dinausor_107
+  - first:
+      213: -8706998065327120909
+    second: google_dinausor_108
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: google_dinausor_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 258
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0b9ac66201b24c0800000000000000
+      internalID: -4311334461059256072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_1
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 27
+        width: 738
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d119d3864399f660800000000000000
+      internalID: 7420123792138637781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_2
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 47
+        width: 43
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91243229571466ad0800000000000000
+      internalID: -2709406152598011367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_3
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 47
+        width: 43
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3cf7258c17a0c60800000000000000
+      internalID: 7785160011054826476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_4
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 47
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b2c87d0575b1490800000000000000
+      internalID: -7774524326999741696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_5
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 47
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcf0797a049f3cd0800000000000000
+      internalID: -2576177689124602692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_6
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 47
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a304accef88d670800000000000000
+      internalID: 8563752938613258845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_7
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 47
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7acb0fa5308586c10800000000000000
+      internalID: 2046982802073762983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_8
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 106
+        width: 119
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ecf732b3dd08cb0800000000000000
+      internalID: -4863644351491748345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_9
+      rect:
+        serializedVersion: 2
+        x: 1432
+        y: 106
+        width: 81
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6339430e7de43620800000000000000
+      internalID: 2753086397707006828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_10
+      rect:
+        serializedVersion: 2
+        x: 1514
+        y: 106
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ca83c59237a4590800000000000000
+      internalID: -7689206792303629211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_11
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 33
+        width: 467
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655ceecd8560bc6e0800000000000000
+      internalID: -1816351045980338858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_12
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 36
+        width: 82
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6caf464b72367fd90800000000000000
+      internalID: -7064068468325942586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_13
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 78
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75f345df871231510800000000000000
+      internalID: 1518594302883938135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_14
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 78
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94783ab0793cc5660800000000000000
+      internalID: 7375985343228774217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_15
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 78
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be63e40fd20eaf640800000000000000
+      internalID: 5114646814742427371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_16
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 78
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715d4d788dfa12be0800000000000000
+      internalID: -1503727456038365929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_17
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 78
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fb59db683f4ccd0800000000000000
+      internalID: -2538636529898242162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_18
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 78
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88527e2ffc50b4210800000000000000
+      internalID: 1318153706627605896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_19
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 33
+        width: 238
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60817f0f486ab38f0800000000000000
+      internalID: -559670638768875514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 2402
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adb1001d60037db0800000000000000
+      internalID: -4795488709799461465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_21
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 7
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f936b151812cb1d0800000000000000
+      internalID: -3333752784855614992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_22
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 9
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3a948536a3098b0800000000000000
+      internalID: -5147550175727082573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 7
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bb89ed9b3a048e0800000000000000
+      internalID: -1711187839701959832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_24
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 7
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f97937c80a1a7c0800000000000000
+      internalID: -4061788863816294616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_25
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 9
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f7ef8ca8a8cc280800000000000000
+      internalID: -9021683624847704310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_26
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 7
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6954dfcc4967f3970800000000000000
+      internalID: 8736832183588439446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_27
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 7
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24902529365757510800000000000000
+      internalID: 1546271117588695362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_28
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 9
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2877496b7b1be3f80800000000000000
+      internalID: -8124861275129481342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_29
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 7
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f4c7ec76eefe8f0800000000000000
+      internalID: -508926103256281216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_30
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 7
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0643b3f48befc1e40800000000000000
+      internalID: 5628653701862995040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_31
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 9
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc845276677a67e20800000000000000
+      internalID: 3348047499975018700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_32
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 7
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51c8cc59cbe13d930800000000000000
+      internalID: 4166707875563736085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_33
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 7
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35da458c0fc2c9c70800000000000000
+      internalID: 8979101169734692179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_34
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 7
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0b65f6f3f491ec0800000000000000
+      internalID: -3595755693609144150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_35
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 7
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e183b0bf14fab230800000000000000
+      internalID: 3655502464510296550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_36
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 7
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b749916b4cd64520800000000000000
+      internalID: 2686076444091172785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_37
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 7
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c0bb31f98be36b0800000000000000
+      internalID: -5314607516880270227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_38
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 7
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280ab28c8c68fe4c0800000000000000
+      internalID: -4256034925931945854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_39
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 9
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4de8e3f2ed1ec9a0800000000000000
+      internalID: -6210993975505392309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_40
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 7
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8675cf6a764493560800000000000000
+      internalID: 7293936283477104488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_41
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 9
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cceecf694c681720800000000000000
+      internalID: 2817120629584489673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_42
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 7
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198b4af2b411872b0800000000000000
+      internalID: -5586696323133556591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_43
+      rect:
+        serializedVersion: 2
+        x: 1405
+        y: 7
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6314886b02ef2c0800000000000000
+      internalID: -4396040217924913453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_44
+      rect:
+        serializedVersion: 2
+        x: 1502
+        y: 9
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df13955363e6a820800000000000000
+      internalID: 2929278623428059089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_45
+      rect:
+        serializedVersion: 2
+        x: 1564
+        y: 7
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffde57cb1d02ecf20800000000000000
+      internalID: 3444726850167107071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_46
+      rect:
+        serializedVersion: 2
+        x: 1631
+        y: 7
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dda7619efa2700c0800000000000000
+      internalID: -4609668420740862510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_47
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 9
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4f2a19de3e4dd20800000000000000
+      internalID: 3302515036259546309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_48
+      rect:
+        serializedVersion: 2
+        x: 1693
+        y: 7
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038257fba3663dce0800000000000000
+      internalID: -1381648258166347728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_49
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 7
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4d197212f618f70800000000000000
+      internalID: 9187746903000995050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_50
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 9
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088600b170bfd2100800000000000000
+      internalID: 84999975926261888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_51
+      rect:
+        serializedVersion: 2
+        x: 1924
+        y: 7
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcb9fa69a9e91060800000000000000
+      internalID: 6924822815912344796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_52
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 7
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452b5e62318a26950800000000000000
+      internalID: 6440895217303663188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_53
+      rect:
+        serializedVersion: 2
+        x: 2077
+        y: 7
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2bd9fe417b1e1330800000000000000
+      internalID: 3683411718705896235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_54
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 7
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e354881f9c37de0800000000000000
+      internalID: -1336502625188364688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_55
+      rect:
+        serializedVersion: 2
+        x: 2290
+        y: 7
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d789a5aa5c3797ec0800000000000000
+      internalID: -3568693936910591875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_56
+      rect:
+        serializedVersion: 2
+        x: 2299
+        y: 7
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfd3d5c292674930800000000000000
+      internalID: 4127375966032093146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_57
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 7
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70efdc7e6823f8130800000000000000
+      internalID: 3571128584524135943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_58
+      rect:
+        serializedVersion: 2
+        x: 2351
+        y: 9
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea42674bab5f04710800000000000000
+      internalID: 1675609243622188206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_59
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49649409fd9aa1f00800000000000000
+      internalID: 1088369037626918548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_60
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad1a337d2b50e5a0800000000000000
+      internalID: -6494090411903410773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_61
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1426f12667789a30800000000000000
+      internalID: 4222255931199988764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc1fcd32d7f78de0800000000000000
+      internalID: -1330822682512515899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_63
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 3
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf7ee31bb8781250800000000000000
+      internalID: 5915610855439761355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_64
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 3
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb601b0b135405a0800000000000000
+      internalID: -6556023781929751612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_65
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 1
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d582384d0cbd609c0800000000000000
+      internalID: -3961237200980203427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_66
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f208852c9d60ad6f0800000000000000
+      internalID: -659206863118106577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_67
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 3
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b89e26946dfffce0800000000000000
+      internalID: -1369097153239148364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_68
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 3
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f5365d201b8f5f0800000000000000
+      internalID: -722633114464854127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_69
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 4
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2cd6ec007061440800000000000000
+      internalID: 4906116544111428312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_70
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a7489233c0bb420800000000000000
+      internalID: 2646722619889711696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_71
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b462fc2203176970800000000000000
+      internalID: 8747981701255423160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_72
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 3
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44ce0469b93cd9350800000000000000
+      internalID: 6025186949499776068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_73
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 4
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ff5bc1d34135890800000000000000
+      internalID: -7470605104170270893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_74
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3fdad7fed2246d0800000000000000
+      internalID: -3007791094501084219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_75
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 4
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b959ffc4c517368e0800000000000000
+      internalID: -1701391592973167205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_76
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baff6518373c64740800000000000000
+      internalID: 5136007325921247147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_77
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d174a24c74eb9b9c0800000000000000
+      internalID: -3910885585951504611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_78
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 3
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1f6b1e08f273370800000000000000
+      internalID: 8302156668669981092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_79
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 4
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550100d6c483136d0800000000000000
+      internalID: -3012564774836760491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_80
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 4
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6939809e3075fb610800000000000000
+      internalID: 1639124463692321686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_81
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840062b02b062dfc0800000000000000
+      internalID: -3471606044941746104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_82
+      rect:
+        serializedVersion: 2
+        x: 1145
+        y: 3
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b5db15c3cd4bd20800000000000000
+      internalID: 3293499379142187783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_83
+      rect:
+        serializedVersion: 2
+        x: 1177
+        y: 1
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5e67849f85e3a70800000000000000
+      internalID: 8808575748869121501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_84
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 1
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc0558553b2592f0800000000000000
+      internalID: -966819036885873480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_85
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 1
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd916fba23fe35b0800000000000000
+      internalID: -5386600739363512869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_86
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 3
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8492f15a3e79c9a0800000000000000
+      internalID: -6212295422032833396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_87
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 348c5c915e59ae780800000000000000
+      internalID: -8652938922826545085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_88
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 3
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2fb6f27b61be5410800000000000000
+      internalID: 1467805603617750829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_89
+      rect:
+        serializedVersion: 2
+        x: 1381
+        y: 3
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a7e97d4b1a6c4c0800000000000000
+      internalID: -4267545798803293642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_90
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 1
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ade2a59cff64db80800000000000000
+      internalID: -8370942676741984860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_91
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 3
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcc8d57c623d88e30800000000000000
+      internalID: 4506083590691196109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_92
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 3
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed8d246f671260e90800000000000000
+      internalID: -7059918571035240226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_93
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 3
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90dc6fed54a5a2d30800000000000000
+      internalID: 4407434441475411209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_94
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 4
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b90e0acdf757a30800000000000000
+      internalID: 4212413612043574143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_95
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 3
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce22ac96abf50a260800000000000000
+      internalID: 7106785466234053356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_96
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 3
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9521753b1410210f0800000000000000
+      internalID: -1147853573332725159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_97
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 3
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b251f7d63532ef5f0800000000000000
+      internalID: -721100049106397909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_98
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 4
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c7a3967a67454880800000000000000
+      internalID: -8627410988576823351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_99
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 1
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a874a2004eaba00800000000000000
+      internalID: 773180975407925898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_100
+      rect:
+        serializedVersion: 2
+        x: 2021
+        y: 4
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062cd18dc370e2a50800000000000000
+      internalID: 6498139270247465568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_101
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 1
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a169006f90b759d00800000000000000
+      internalID: 978823776735106586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_102
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 1
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cc21d8fba0f86c0800000000000000
+      internalID: -4139077714708345733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_103
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 3
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80eeb6741b3414660800000000000000
+      internalID: 7368244894041370120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_104
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 4
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d45ef228d6b6a10800000000000000
+      internalID: 1903735673410899225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_105
+      rect:
+        serializedVersion: 2
+        x: 2231
+        y: 4
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027749f92d9e70120800000000000000
+      internalID: 2380128018918307616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_106
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 1
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc1f40f3f5228f40800000000000000
+      internalID: 5729183405607689415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_107
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 3
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3b144e4ad1fdef20800000000000000
+      internalID: 3453682409181289274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: google_dinausor_108
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 1
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdd92824678a2780800000000000000
+      internalID: -8706998065327120909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
